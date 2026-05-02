@@ -1,0 +1,6 @@
+{
+  "name": "Aether Travel",
+  "description": "An AI-powered luxury travel concierge and personalized local guide for elite experiences.",
+  "requestFramePermissions": ["microphone", "geolocation", "camera"],
+  "majorCapabilities": ["AI Travel Agent", "Exclusive Landmark Access", "Local Hidden Gems", "Emergency Protocols"]
+}
